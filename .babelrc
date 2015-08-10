@@ -1,0 +1,5 @@
+{
+  "stage": 0,
+  "only": ["src", "examples"],
+  "loose": ["es6.modules"]
+}
